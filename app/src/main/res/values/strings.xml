@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RP13-I04-001</string>
+    <string name="lblRegistro">Registro de Alumno</string>
+    <string name="lblCodigo">Código</string>
+    <string name="lblNombre">Nombre</string>
+    <string name="lblEdad">Edad</string>
+
+    <string name="btnAgregar">Agregar</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="btnEliminar">Eliminar</string>
+
+    <string name="lblListado">Listado de Alumnos</string>
+    <string name="lblBusqueda">Búsqueda de Alumnos</string>
+    <string name="lblBuscar">Buscar por</string>
+    <string name="lblTipo">Nombre o Código</string>
+
+</resources>
